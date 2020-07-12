@@ -1,25 +1,13 @@
 # kurdishmusiqi_bot (SMD) Desktop | **<a href="https://t.me/kurdishmusiqi_bot"><b>Telegram</b></a>**
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/artyshko/smd.svg) ![GitHub Release Date](https://img.shields.io/github/release-date/artyshko/smd.svg) ![GitHub issues](https://img.shields.io/github/issues/artyshko/smd.svg) ![Beerpay](https://img.shields.io/beerpay/artyshko/smd.svg) [![Beerpay](https://beerpay.io/artyshko/smd/make-wish.svg?style=flat)](https://beerpay.io/artyshko/smd?focus=wish)
-
-
-
 <p align="center">
   <b><h1>Desktop version GUI<h1></b>
 </p>
-
-.
-
 <p align="center">
   <b><h1>Desktop version CLI<h1></b>
 </p>
 <p align="center">
   <h1>Telegram version</h1>
 </p>
-
-
-## Manual (Desktop version CLI)
-
-```
 ./main.py [argument][value] - startup with arguments
 
  Arguments:
